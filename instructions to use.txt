@@ -1,0 +1,5 @@
+You can use pdo scripts if you working with pdo crud. Change settings with pdo_connection file, 
+change database name and table name you work with for sql statements.
+
+Best regards, 
+Muris
